@@ -1,0 +1,165 @@
+.container {
+  
+ width:90%;
+ margin: auto;
+ box-sizing:border-box;
+  
+ 
+ 
+  
+  
+}
+
+
+*, :after, :before {
+    box-sizing: border-box;
+}
+.flex-container {
+  display:flex;
+  flex-direction:column;
+  
+ 
+  
+}
+.long {
+  
+  width:90%;
+  
+  
+}
+.anakin {
+  
+  display:flex;
+  width:40%;
+  position:absolute;
+  margin-right:auto;
+  
+  
+}
+#title {
+  background:black;
+  color:white;
+  
+  font-family: 'Merriweather', serif;
+  width:90%;
+  border:0.1px solid lightgrey;
+  margin-right:auto;
+  
+  
+  
+  
+    
+    
+}
+.text {
+  font-family: 'Merriweather', serif;
+  font-size:2rem;
+  
+  
+  position:absolute;
+  text-align:center;
+ 
+}
+img {
+  width:100%;
+}
+
+.together {
+  font-family: 'Merriweather', serif;
+ 
+  margin-top:55px;
+  margin-right:auto;
+  position:relative;
+  color:white;
+  background:grey;
+  height:150px;
+  text-align: center;
+  
+  
+  width:30%;
+  
+  
+  
+}
+#line {
+position:absolute;
+top:0px;
+left:5px;  
+ 
+
+}
+.jobb {
+position:relative;
+top:0;
+left:800px;  
+
+
+
+
+ 
+  
+ 
+  
+}
+.find {
+  margin-top:55px;
+  margin-right:auto;
+  position:relative;
+  color:white;
+  background:grey;
+  height:250px;
+  text-align: center;
+  
+  
+  width:30%;
+  font-family: 'Merriweather', serif;
+  
+  
+  
+    
+}
+
+h3 {
+position:relative;
+font-family: 'Josefin Sans', sans-serif;
+color:;   
+}
+
+#third {
+  
+  position:absolute;
+  top:0;
+  left:0;
+  
+}
+h2 {
+  position:relative;
+  
+}
+
+.when {
+  font-family: 'Merriweather', serif;
+  position:relative;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:10px;
+  color:white;
+  background:grey;
+  height:150px;
+  text-align: center;
+  padding:35px;
+  width:60%;
+}
+#fourth {
+  position:absolute;
+  top:0px;
+  left:0px;
+}
+.bio {
+height:80px;
+text-align:center;
+padding:  
+}
+p {
+  
+}
